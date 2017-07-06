@@ -277,8 +277,7 @@ described above. It takes four arguments:
 1. `Maze * m`: the maze you are trying to solve.
 2. `MazePos curPos`: the current square in the maze being "visited."
 3. `char * path`: a character array containing the current path. This path 
-  should match the format of the path from PA07 (i.e., it should be a 
-  null-terminated string with a sequence of directions to move).
+  should be a null-terminated string with a sequence of directions to move.
 4. `int step`: a counter telling you how far along the current path you are.
 
 and returns a boolean: `true` means that the current square being visited by
