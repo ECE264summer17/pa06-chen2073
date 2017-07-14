@@ -1,0 +1,55 @@
+Mo:Success!Master Mo:Success!
+Mo:Failure!Master Mo:Failure!
+Mo:Success!Master Mo:Success!
+Mo:Success!Master Mo:Success!
+Mo:Failure!Master Mo:Failure!
+Mo:Success!Master Mo:Success!
+Mo:Failure!Master Mo:Failure!
+Mo:Success!Master Mo:Success!
+Mo:Success!Master Mo:Success!
+Mo:Failure!Master Mo:Failure!
+TEST CASE: 1 (Read Maze): 
+Tests for maze1
+PASS
+Tests for maze2
+PASS
+Tests for maze3
+PASS
+Tests for maze4
+PASS
+Tests for maze5
+PASS
+TEST CASE: 2 (Free Maze): 
+Tests for maze1
+PASS
+Tests for maze2
+PASS
+Tests for maze3
+PASS
+Tests for maze4
+PASS
+Tests for maze5
+PASS
+TEST CASE: 3 (Solve Maze): 
+Tests for maze1
+PASS
+Tests for maze2
+PASS
+Tests for maze3
+PASS
+Tests for maze4
+PASS
+Tests for maze5
+PASS
+TEST CASE: valgrind
+memcheck.log.maze1_0
+memcheck.log.maze3_0
+memcheck.log.maze4_0
+memcheck.log.maze1_1
+memcheck.log.maze3_1
+memcheck.log.maze4_1
+memcheck.log.maze1_2
+memcheck.log.maze3_2
+memcheck.log.maze4_2
+ PASS
+Points: 6.000000 
